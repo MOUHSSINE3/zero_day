@@ -10,3 +10,11 @@
 A [link](http://bouincha.com "MOUHSSINE")
 I have more [^1] to say up here.
 [^1]: To say down here COOL.
+****Try agian**** _here_
+### Some commandes we use to show contant of file
+* cat 
+* less [^1] 
+* head
+* tail
+A [link] (https://google.com)
+
